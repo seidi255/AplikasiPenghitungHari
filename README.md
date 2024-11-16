@@ -38,13 +38,7 @@ Aplikasi ini dirancang untuk membantu pengguna dalam menghitung berbagai hal yan
 - Mudah digunakan: Antarmuka pengguna yang sederhana dan intuitif.
 - Fitur lengkap: Menawarkan berbagai fitur perhitungan tanggal yang berguna.
 - Akurat: Menggunakan pustaka Java yang handal untuk perhitungan tanggal.
-
-**Potensi Pengembangan:**
-
-1. Fitur tambahan: Menambahkan fitur seperti menghitung usia, menghitung hari kerja, atau membuat kalender acara.
-2. Kustomisasi tampilan: Memungkinkan pengguna mengubah tampilan kalender dan warna tema aplikasi.
-3. Integrasi dengan aplikasi lain: Mengizinkan aplikasi ini untuk berinteraksi dengan aplikasi lain, seperti aplikasi pengingat atau kalender digital.
-
+- 
 Secara singkat, aplikasi ini adalah alat yang berguna untuk siapa saja yang membutuhkan informasi terkait tanggal dan kalender.
  
 ![Demo GIF](https://github.com/seidi255/AplikasiPenghitungHari/blob/main/IMG/RECORD%20PBO2.gif)
